@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>call-stop.png</file>
+        <file>stop.svg</file>
+    </qresource>
+</RCC>
